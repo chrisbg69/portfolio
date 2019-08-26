@@ -12,3 +12,6 @@ Clone repo, install, cd into folder and run:
 npm install
 npm start
 ```
+# Note
+Changed paths to match https://chrisbg69.github.io/portfolio address in github-pages.
+See main.js, App.js and index.js. If you run app locally, change path in browser adrress field to http://localhost:3000/portfolio.
