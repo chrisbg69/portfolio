@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/chrisbg69/portfolio.svg)](http://hits.dwyl.io/chrisbg69/portfolio)  [![Website chrisbg69.github.io/portfolio](https://img.shields.io/website-up-down-green-red/https/chrisbg69.github.io.svg)](https://chrisbg69.github.io/portfolio)  https://img.shields.io/github/languages/top/chrisbg69/portfolio
+[![HitCount](http://hits.dwyl.io/chrisbg69/portfolio.svg)](http://hits.dwyl.io/chrisbg69/portfolio)  [![Website chrisbg69.github.io/portfolio](https://img.shields.io/website-up-down-green-red/https/chrisbg69.github.io.svg)](https://chrisbg69.github.io/portfolio)  ![GitHub top language](https://img.shields.io/github/languages/top/chrisbg69/portfolio)
 
 # react-portfolio-starter
 A React based personal portfolio app using create-react-app and React Router v4.
